@@ -1,8 +1,10 @@
-# <hr /> Title <img align="right" alt="IPG" src="./img/logo.large.svg" width="164" valign="middle" />
+# <hr />Name of the project <img align="right" alt="IPG" src="./img/logo.large.svg" width="164" valign="middle" />
 
 <a name="top"></a>
 
-This `webview` encapsulates the payment form for users interacting with the quote flow and will be reused across `android`, `ios`, and `web`.
+> Additional information or tag line
+
+A brief description of your project, what it is used for.
 
 ## <sup>Table of Contents</sup>
 
@@ -37,173 +39,128 @@ This `webview` encapsulates the payment form for users interacting with the quot
 [![Contributors][contributors-shield]][contributors-url]
 <br /><br /></th></tr></table>
 
-- [ Title ](#-title-)
+- [Name of the project ](#name-of-the-project-)
   - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-    - [ Clone project and go to directory](#-clone-project-and-go-to-directory)
-    - [ Alignment to specified `node` version](#-alignment-to-specified-node-version)
-    - [ Removes dynamicly generated directories](#-removes-dynamicly-generated-directories)
-    - [ Install package dependencies](#-install-package-dependencies)
-    - [ Launch `dev` instance to browser](#-launch-dev-instance-to-browser)
-  - [Configuration](#configuration)
-    - [ Artifactory](#-artifactory)
-    - [ Environment variables `.env`](#-environment-variables-env)
-  - [Maintinence](#maintinence)
-    - [ Formats project code for readability and familiarity](#-formats-project-code-for-readability-and-familiarity)
-  - [Linting](#linting)
-    - [ Lints project code to reduce syntax errors](#-lints-project-code-to-reduce-syntax-errors)
-  - [Testing](#testing)
-    - [ Executes unit and e2e test suites to ensure quality](#-executes-unit-and-e2e-test-suites-to-ensure-quality)
-    - [ Lints commit messages for a readable `git` history](#-lints-commit-messages-for-a-readable-git-history)
-  - [Building](#building)
-    - [ Bundle to `dist` folder](#-bundle-to-dist-folder)
-    - [ Start production instance](#-start-production-instance)
-  - [Versioning](#versioning)
+  - [ Getting Started ](#-getting-started-)
+    - [ Installation ](#-installation-)
+  - [ Configuration ](#-configuration-)
+    - [ Artifactory ](#-artifactory-)
+    - [ Environment variables](#-environment-variables)
+  - [ Developing ](#-developing-)
+    - [ Built With ](#-built-with-)
+    - [ Prerequisites ](#-prerequisites-)
+    - [ Setting up Dev ](#-setting-up-dev-)
+  - [ Maintinence ](#-maintinence-)
+  - [ Testing ](#-testing-)
+    - [ Building ](#-building-)
+  - [ Versioning ](#-versioning-)
+    - [ Deploying / Publishing ](#-deploying--publishing-)
 
 ---
 
-## <sub>Installation</sub>
+## <sub> Getting Started </sub>
 
-> **NOTE:** due to some dependency oddities, I swapped back to `yarn` for this project. You're able to use `npm` if you choose to; however, start the discussion prior to using a different package manager as there may be unanticipated ramifications by doing so.
+A quick introduction of the minimal setup you need to get a hello world up & running.
 
-### <sup> Clone project and go to directory</sup>
+```shell
+commands here
+```
 
-Setup usign `create-expo-app` and clear dependencies as well as references to `npm`.
+> You should say what actually happens when you execute the code above.
 
-> ```sh
-> # or npx create-expo-app webview
-> gh repo clone darcher-figo/documentation
->
-> # go to project
-> cd webview
-> ```
+### <sup> Installation </sup>
 
-### <sup> Alignment to specified `node` version</sup>
-
-> ```sh
-> # using nvm
-> nvm install v18.16.0
-> nvm use
->
-> # using npm
-> npm install -g n
-> sudo n stable # or 18.16.0
-> ```
-
-### <sup> Removes dynamicly generated directories</sup>
-
-> ```sh
-> yarn run clean
-> ```
-
-### <sup> Install package dependencies</sup>
-
-> ```sh
-> # install deps
-> yarn
->
-> # update deps if necessary
-> yarn upgrade --latest
-> ```
-
-### <sup> Launch `dev` instance to browser</sup>
-
-> ```sh
-> # run dev in localhost instance
-> yarn run web
->
-> # additional options
-> yarn run android
-> yarn run ios
-> yarn run start 
-> ```
+Include steps to install any prerequisits
 
 <table align="right"><tr><td>
 
 <a href="#top" title="Return to top">:top:</a></td></tr></table>
 
-## <sub>Configuration</sub>
+## <sub> Configuration </sub>
 
 Below is a configuration check to ensure each expected variable is defined and passed as a configuration export.
 
-### <sup> Artifactory
+### <sup> Artifactory </sup>
 
-> :soon: Include configurations to pull from *Artifactory*
+Include configurations to pull packages from a private *Artifactory* if avaliable
 
-### <sup> Environment variables `.env`</sup>
+### <sup> Environment variables</sup>
 
-> :soon: Include `dotenv` to setup any global variables.
+Include environment variables that aren't included in project (or where to find them)
 
-> ```txt
-> PORT=3000
-> HTTP=http
-> HOST=localhost
->
-> LOG_LVL=verbose
-> ENABLE_LOGS=true
-> NODE_ENV=development
-> PUBLIC_URL=localhost:3000
-> ```
+## <sub> Developing </sup>
 
-## <sub>Maintinence</sub>
+### <sup> Built With </sup>
+List main libraries, frameworks used including versions (React, Angular etc...)
 
-### <sup> Formats project code for readability and familiarity</sup>
+### <sup> Prerequisites </sup>
+What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
 
-> ```sh
-> yarn run format
-> ```
+### <sup> Setting up Dev </sup>
 
-<table align="right"><tr><td>
+Here's a brief intro about what a developer must do in order to start developing
+the project further:
 
-<a href="#top" title="Return to top">:top:</a></td></tr></table>
+```shell
+git clone https://github.com/your/your-project.git
+cd your-project/
+packagemanager install
+```
 
-## <sub>Linting</sub>
+> State what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
 
-### <sup> Lints project code to reduce syntax errors</sup>
+## <sub> Maintinence </sub>
 
-> ```sh
-> yarn run lint
-> ```
-
-## <sub>Testing</sub>
-
-### <sup> Executes unit and e2e test suites to ensure quality</sup>
-
-> ```sh
-> yarn run test # executes Jest & Playwright: e2e, indegration, & unit tests
-> ```
-
-### <sup> Lints commit messages for a readable `git` history</sup>
-
-> ```sh
-> yarn run lint:commit
-> ```
+Provide details on avaliable tools for maintaining project
 
 <table align="right"><tr><td>
 
 <a href="#top" title="Return to top">:top:</a></td></tr></table>
 
-## <sub>Building</sub>
+## <sub> Testing </sub>
 
-### <sup> Bundle to `dist` folder</sup>
+Describe and show how to run the tests with code examples.
+Explain what these tests test and why.
 
-> ```sh
-> yarn run build
-> ```
+```shell
+Give an example
+```
 
-### <sup> Start production instance</sup>
+<table align="right"><tr><td>
 
-> ```sh
-> yarn start
-> ```
+<a href="#top" title="Return to top">:top:</a></td></tr></table>
 
-## <sub>Versioning</sub>
+### <sub> Building </sub>
+
+If your project needs some additional steps for the developer to build the
+project after some code changes, state them here. for example:
+
+```shell
+./configure
+make
+make install
+```
+
+> State what actually happens when the code above gets executed.
+
+## <sub> Versioning </sub>
 
 > :soon: Implement [SemVer][sem-ver-url] for version automation.
 
 <table align="right"><tr><td>
 
 <a href="#top" title="Return to top">:top:</a></td></tr></table>
+
+### <sup> Deploying / Publishing </sup>
+give instructions on how to build and release a new version
+In case there's some step you have to take that publishes this project to a
+server, this is the right time to state it.
+
+```shell
+packagemanager deploy your-project -s server.com -u username -p password
+```
+
+> Tell what the previous code actually does.
 
 ---
 
