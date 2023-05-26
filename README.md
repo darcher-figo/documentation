@@ -16,28 +16,7 @@ A brief description of your project, what it is used for.
 &rsaquo; [<b>Contributing</b>](.github/CONTRIBUTING.md)<br />
 &rsaquo; [<b>Guidelines</b>](.github/DEVELOPMENT.md)<br />
 &rsaquo; [<b>Licensing</b>](LICENSE.md)<br />
-</td></tr>
-<tr><th scope="col"><sup><sub>TECHNOLOGY</sub></sup></th></tr><tr><td align="center"><br />
-
-<img alt="React" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" width="23"/><!--
---> <img alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/640px-HTML5_Badge.svg.png" width="23"/><!--
---> <img alt="Jest" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" width="21.5" /><!--
---> <img alt="ESLint" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/640px-ESLint_logo.svg.png" width="27" /><br /><!--
---> <img alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="23" /><!--
---> <img alt="SASS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/640px-Sass_Logo_Color.svg.png" width="29" /><!--
---> <img alt="NodeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" width="40" ><!--
---> <img alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" width="22" /><!--
---> <br /><br /></td></tr>
-<tr><th scope="col"><sup><sub>BADGES</sub></sup></td></tr>
-
-<tr><td align="center"><br />
-
-[![Issues][issues-shield]][issues-url]<br />
-[![MIT License][license-shield]][license-url]<br />
-[![Forks][forks-shield]][forks-url]<br />
-[![Stargazers][stars-shield]][stars-url]<br />
-[![Contributors][contributors-shield]][contributors-url]
-<br /><br /></th></tr></table>
+</td></tr></table>
 
 - [Name of the project ](#name-of-the-project-)
   - [Table of Contents](#table-of-contents)
@@ -174,13 +153,8 @@ packagemanager deploy your-project -s server.com -u username -p password
 [web-components-url]: https://developer.mozilla.org/en-US/docs/Web/API/Web_components
 [ipg-url]: https://www.independencepetgroup.com/
 [sem-ver-url]: http://semver.org/
-[contributors-shield]: https://img.shields.io/github/contributors/darcher-figo/documentation.svg
 [contributors-url]: https://github.com/darcher-figo/documentation/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/darcher-figo/documentation.svg
 [forks-url]: https://github.com/darcher-figo/documentation/network/members
-[stars-shield]: https://img.shields.io/github/stars/darcher-figo/documentation.svg
 [stars-url]: https://github.com/darcher-figo/documentation/stargazers
-[issues-shield]: https://img.shields.io/github/issues/darcher-figo/documentation.svg
 [issues-url]: https://github.com/darcher-figo/documentation/issues
-[license-shield]: https://img.shields.io/github/license/darcher-figo/documentation.svg
 [license-url]: https://github.com/darcher-figo/documentation/blob/master/LICENSE.txt
