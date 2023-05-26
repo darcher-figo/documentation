@@ -66,6 +66,10 @@ Include configurations to pull packages from a private *Artifactory* if avaliabl
 
 Include environment variables that aren't included in project (or where to find them)
 
+<table align="right"><tr><td>
+
+<a href="#top" title="Return to top">:top:</a></td></tr></table>
+
 ## <sub> Developing </sup>
 
 ### <sup> Built With </sup>
@@ -87,13 +91,13 @@ packagemanager install
 
 > State what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
 
-## <sub> Maintinence </sub>
-
-Provide details on avaliable tools for maintaining project
-
 <table align="right"><tr><td>
 
 <a href="#top" title="Return to top">:top:</a></td></tr></table>
+
+## <sub> Maintinence </sub>
+
+Provide details on avaliable tools for maintaining project
 
 ## <sub> Testing </sub>
 
@@ -103,10 +107,6 @@ Explain what these tests test and why.
 ```shell
 Give an example
 ```
-
-<table align="right"><tr><td>
-
-<a href="#top" title="Return to top">:top:</a></td></tr></table>
 
 ### <sub> Building </sub>
 
@@ -121,13 +121,14 @@ make install
 
 > State what actually happens when the code above gets executed.
 
+<table align="right"><tr><td>
+
+<a href="#top" title="Return to top">:top:</a></td></tr></table>
+
 ## <sub> Versioning </sub>
 
 > :soon: Implement [SemVer][sem-ver-url] for version automation.
 
-<table align="right"><tr><td>
-
-<a href="#top" title="Return to top">:top:</a></td></tr></table>
 
 ### <sup> Deploying / Publishing </sup>
 give instructions on how to build and release a new version
