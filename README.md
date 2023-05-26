@@ -1,4 +1,4 @@
-# <hr /> <sup>Title</sup> <img align="right" alt="IPG" src="./img/logo.svg" width="164" valign="middle" />
+# <hr /> Title <img align="right" alt="IPG" src="./img/logo.large.svg" width="164" valign="middle" />
 
 <a name="top"></a>
 
@@ -32,7 +32,7 @@ This `webview` encapsulates the payment form for users interacting with the quot
 
 [![Issues][issues-shield]][issues-url]<br />
 [![MIT License][license-shield]][license-url]<br />
-[![Forks][forks-shield]][forks-url]
+[![Forks][forks-shield]][forks-url]<br />
 [![Stargazers][stars-shield]][stars-url]<br />
 [![Contributors][contributors-shield]][contributors-url]
 <br /><br /></th></tr></table>
@@ -72,7 +72,7 @@ Setup usign `create-expo-app` and clear dependencies as well as references to `n
 
 > ```sh
 > # or npx create-expo-app webview
-> gh repo clone darcher-figo/webview
+> gh repo clone darcher-figo/documentation
 >
 > # go to project
 > cd webview
@@ -210,20 +210,20 @@ Below is a configuration check to ensure each expected variable is defined and p
 <br />
 <table align="center"><tr><td valign="middle">
 
-&copy; ммххɪɪɪ PetPartners, Inc.</td><td>
+<img alt="IPG" src="./img/logo.small.svg" width="18" valign="middle" /></td><td>
 <a href="#top" title="Return to top">:top:</a></td></tr></table>
 
 [js-api-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [web-components-url]: https://developer.mozilla.org/en-US/docs/Web/API/Web_components
 [ipg-url]: https://www.independencepetgroup.com/
 [sem-ver-url]: http://semver.org/
-[contributors-shield]: https://img.shields.io/github/contributors/darcher-figo/webview.svg
-[contributors-url]: https://github.com/darcher-figo/webview/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/darcher-figo/webview.svg
-[forks-url]: https://github.com/darcher-figo/webview/network/members
-[stars-shield]: https://img.shields.io/github/stars/darcher-figo/webview.svg
-[stars-url]: https://github.com/darcher-figo/webview/stargazers
-[issues-shield]: https://img.shields.io/github/issues/darcher-figo/webview.svg
-[issues-url]: https://github.com/darcher-figo/webview/issues
-[license-shield]: https://img.shields.io/github/license/darcher-figo/webview.svg
-[license-url]: https://github.com/darcher-figo/webview/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/darcher-figo/documentation.svg
+[contributors-url]: https://github.com/darcher-figo/documentation/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/darcher-figo/documentation.svg
+[forks-url]: https://github.com/darcher-figo/documentation/network/members
+[stars-shield]: https://img.shields.io/github/stars/darcher-figo/documentation.svg
+[stars-url]: https://github.com/darcher-figo/documentation/stargazers
+[issues-shield]: https://img.shields.io/github/issues/darcher-figo/documentation.svg
+[issues-url]: https://github.com/darcher-figo/documentation/issues
+[license-shield]: https://img.shields.io/github/license/darcher-figo/documentation.svg
+[license-url]: https://github.com/darcher-figo/documentation/blob/master/LICENSE.txt

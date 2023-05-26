@@ -1,4 +1,4 @@
-# <hr /> <sup>Developer Guidelines</sup> <img align="right" alt="IPG" src="./img/logo.svg" width="164" valign="middle" />
+# <hr /> <sup>Developer Guidelines</sup> <img align="right" alt="IPG" src="../img/logo.large.svg" width="164" valign="middle" />
 
 A collection of javascript project best practices collected from various trusted sources around the web.
 
