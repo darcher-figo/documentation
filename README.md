@@ -9,14 +9,13 @@ A brief description of your project, what it is used for.
 ## <sup>Table of Contents</sup>
 
 <table align="right">
-<tr><th scope="col"><sub><sup>DOCUMENTATION</sup></sub></td></tr><tr><td><br />
+<tr><th scope="col"><sub><sup>DOCUMENTATION</sup></sub></td></tr><tr><td>
 
-<sup> &rsaquo; [<b>Code of Conduct</b>](.github/CODE_OF_CONDUCT.md)<br />
-&rsaquo; [<b>Code Owners</b>](.github/CODEOWNER.md)<br />
-&rsaquo; [<b>Contributing</b>](.github/CONTRIBUTING.md)<br />
-&rsaquo; [<b>Guidelines</b>](.github/DEVELOPMENT.md)<br />
-&rsaquo; [<b>Licensing</b>](LICENSE.md)<br />
-</td></tr></table>
+[Code of Conduct](.github/CODE_OF_CONDUCT.md)</td></tr><tr><td>
+[Code Reviewers](.github/CODEOWNER.md)</td></tr><tr><td>
+[Help Contribute](.github/CONTRIBUTING.md)</td></tr><tr><td>
+[Dev Guidelines](.github/DEVELOPMENT.md)</td></tr><tr><td>
+[License Details](LICENSE.md)</td></tr></table>
 
 - [Name of the project ](#name-of-the-project-)
   - [Table of Contents](#table-of-contents)
