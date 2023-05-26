@@ -1,3 +1,11 @@
+
+**<u><sup><sub>DOCS</sup></sup></u>**  &nbsp; [Code of Conduct](.github/CODE_OF_CONDUCT.md) &bull;
+[Code Reviewers](.github/CODEOWNER.md) &bull;
+[Help Contribute](.github/CONTRIBUTING.md) &bull;
+[Dev Guidelines](.github/DEVELOPMENT.md) &bull;
+[License Details](LICENSE.md)
+
+
 # <hr /> <sup>Developer Guidelines</sup> <img align="right" alt="IPG" src="../img/logo.large.svg" width="164" valign="middle" />
 
 A collection of javascript project best practices collected from various trusted sources around the web.
@@ -942,6 +950,16 @@ Sources:
 
 Icons by [icons8](https://icons8.com/)
 
+---
+
+
+**<u><sup><sub>DOCS</sup></sup></u>**  &nbsp; [Code of Conduct](.github/CODE_OF_CONDUCT.md) &bull;
+[Code Reviewers](.github/CODEOWNER.md) &bull;
+[Help Contribute](.github/CONTRIBUTING.md) &bull;
+[Dev Guidelines](.github/DEVELOPMENT.md) &bull;
+[License Details](LICENSE.md)
+
+
 [legal]: https://cdn3.iconfinder.com/data/icons/business-round-set-1/128/DOCUMENTS-256.png
 [a11y]: https://cdn2.iconfinder.com/data/icons/the-circle-icons/512/accessibility.png
 [api]: https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-256.png
@@ -953,3 +971,4 @@ Icons by [icons8](https://icons8.com/)
 [dir]: https://cdn4.iconfinder.com/data/icons/business-1221/24/Structure_Organization-256.png
 [code]: https://cdn4.iconfinder.com/data/icons/file-types-outline-1/64/java_programming_android_c_js_html_css_xmp_php_files-256.png
 [logs]: https://cdn1.iconfinder.com/data/icons/health-care-66/32/Reports_B-256
+

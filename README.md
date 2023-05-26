@@ -142,6 +142,14 @@ packagemanager deploy your-project -s server.com -u username -p password
 
 ---
 
+
+**<u><sup><sub>DOCS</sup></sup></u>**  &nbsp; [Code of Conduct](.github/CODE_OF_CONDUCT.md) &bull;
+[Code Reviewers](.github/CODEOWNER.md) &bull;
+[Help Contribute](.github/CONTRIBUTING.md) &bull;
+[Dev Guidelines](.github/DEVELOPMENT.md) &bull;
+[License Details](LICENSE.md)
+
+
 <br />
 <table align="center"><tr><td><img align="center" alt="IPG" src="./img/logo.small.svg" width="64" /></td></tr></table>
 

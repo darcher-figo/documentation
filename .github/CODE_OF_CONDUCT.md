@@ -1,3 +1,11 @@
+
+**<u><sup><sub>DOCS</sup></sup></u>**  &nbsp; [Code of Conduct](.github/CODE_OF_CONDUCT.md) &bull;
+[Code Reviewers](.github/CODEOWNER.md) &bull;
+[Help Contribute](.github/CONTRIBUTING.md) &bull;
+[Dev Guidelines](.github/DEVELOPMENT.md) &bull;
+[License Details](LICENSE.md)
+
+
 # <hr /> <sup>Ethos & Ethics</sup> <img align="right" alt="IPG" src="../img/logo.large.svg" width="164" valign="middle" />
 
 **Code of Conduct: The contributor covenant -** A set of rules outlining the policies, proper practices, and responsibilities of an individual, team, company, and/or organization.
@@ -53,3 +61,13 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 ### Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant <sup>v1.4</sup>](http://contributor-covenant.org/version/1/4/)
+
+---
+
+<br />
+
+**<u><sup><sub>DOCS</sup></sup></u>**  &nbsp; [Code of Conduct](.github/CODE_OF_CONDUCT.md) &bull;
+[Code Reviewers](.github/CODEOWNER.md) &bull;
+[Help Contribute](.github/CONTRIBUTING.md) &bull;
+[Dev Guidelines](.github/DEVELOPMENT.md) &bull;
+[License Details](LICENSE.md)

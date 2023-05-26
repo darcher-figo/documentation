@@ -1,3 +1,11 @@
+
+**<u><sup><sub>DOCS</sup></sup></u>**  &nbsp; [Code of Conduct](.github/CODE_OF_CONDUCT.md) &bull;
+[Code Reviewers](.github/CODEOWNER.md) &bull;
+[Help Contribute](.github/CONTRIBUTING.md) &bull;
+[Dev Guidelines](.github/DEVELOPMENT.md) &bull;
+[License Details](LICENSE.md)
+
+
 # <hr /> <sup>Contributing</sup> <img align="right" alt="IPG" src="../img/logo.large.svg" width="164" valign="middle" />
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
@@ -35,3 +43,14 @@ Pull Request (PR) process and proceedures can be found in the templates under th
 
 
 <br /></tr></table>
+
+---
+
+<br />
+
+**<u><sup><sub>DOCS</sup></sup></u>**  &nbsp; [Code of Conduct](.github/CODE_OF_CONDUCT.md) &bull;
+[Code Reviewers](.github/CODEOWNER.md) &bull;
+[Help Contribute](.github/CONTRIBUTING.md) &bull;
+[Dev Guidelines](.github/DEVELOPMENT.md) &bull;
+[License Details](LICENSE.md)
+
