@@ -144,7 +144,7 @@ packagemanager deploy your-project -s server.com -u username -p password
 ---
 
 <br />
-<center><img align="center" alt="IPG" src="./img/logo.small.svg" width="64" /></center>
+<table align="center"><tr><td><img align="center" alt="IPG" src="./img/logo.small.svg" width="64" /></td></tr></table>
 
 [js-api-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [web-components-url]: https://developer.mozilla.org/en-US/docs/Web/API/Web_components
