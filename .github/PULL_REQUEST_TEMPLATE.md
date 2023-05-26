@@ -1,4 +1,5 @@
-# Description
+# <hr /> <sup>Description</sup> <img align="right" alt="IPG" src="./img/logo.svg" width="164" valign="middle" />
+
 
 List any relevant information that you used to outline and conduct the changes to include Azure/Jira stories, documentation, people you conversed with, any relevent details that will bring clarity to the changes.
 

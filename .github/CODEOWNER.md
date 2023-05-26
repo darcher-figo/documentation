@@ -1,1 +1,1 @@
-* darcher@insurefigo.com warias@petpartners.com
+* darcher@insurefigo.com

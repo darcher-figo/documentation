@@ -1,4 +1,4 @@
-# Contributing
+# <hr /> <sup>Contributing</sup> <img align="right" alt="IPG" src="./img/logo.svg" width="164" valign="middle" />
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 

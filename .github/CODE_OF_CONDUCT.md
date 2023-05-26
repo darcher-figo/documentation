@@ -1,4 +1,4 @@
-# Ethos 
+# <hr /> <sup>Ethos & Ethics</sup> <img align="right" alt="IPG" src="./img/logo.svg" width="164" valign="middle" />
 
 **Code of Conduct: The contributor covenant -** A set of rules outlining the policies, proper practices, and responsibilities of an individual, team, company, and/or organization.
 

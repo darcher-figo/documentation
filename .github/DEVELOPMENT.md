@@ -1,8 +1,8 @@
-# Project Guidelines <img align="right" alt="PetPartners, Inc. (PPI)" src="../assets/ppi.logo.svg" width="164" valign="top">
+# <hr /> <sup>Developer Guidelines</sup> <img align="right" alt="IPG" src="./img/logo.svg" width="164" valign="middle" />
 
 A collection of javascript project best practices collected from various trusted sources around the web.
 
-- [Project Guidelines ](#project-guidelines-)
+- [ Developer Guidelines ](#-developer-guidelines-)
   - [1. Git](#1-git)
     - [1.1 Some Git rules](#11-some-git-rules)
     - [1.2 Git workflow](#12-git-workflow)

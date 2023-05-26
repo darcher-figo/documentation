@@ -1,4 +1,4 @@
-# <hr /> <sup>Billing and Payment `webview`</sup> <img align="right" alt="PetPartners, Inc." src="assets/ppi.logo.svg" width="164" valign="middle">
+# <hr /> <sup>Title</sup> <img align="right" alt="IPG" src="./img/logo.svg" width="164" valign="middle" />
 
 <a name="top"></a>
 
@@ -37,7 +37,7 @@ This `webview` encapsulates the payment form for users interacting with the quot
 [![Contributors][contributors-shield]][contributors-url]
 <br /><br /></th></tr></table>
 
-- [ Billing and Payment `webview` ](#-billing-and-payment-webview-)
+- [ Title ](#-title-)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
     - [ Clone project and go to directory](#-clone-project-and-go-to-directory)

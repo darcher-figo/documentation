@@ -1,7 +1,5 @@
+# <hr /> <sup>Issue Report</sup> <img align="right" alt="IPG" src="./img/logo.svg" width="164" valign="middle" />
 
-
-
-## Overview
 
 > **NOTE:** This blank issue template is only for issues that don't fit any of the templates.
 >
