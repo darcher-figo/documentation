@@ -127,8 +127,7 @@ make install
 
 ## <sub> Versioning </sub>
 
-> :soon: Implement [SemVer][sem-ver-url] for version automation.
-
+> Explain the versioning process and any type of automation this entails
 
 ### <sup> Deploying / Publishing </sup>
 give instructions on how to build and release a new version
